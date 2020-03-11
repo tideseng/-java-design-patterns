@@ -19,7 +19,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
-            <!--为了让Test在main目录下使用，查看更方便，暂时将scope改为默认-->
             <scope>test</scope>
         </dependency>
         <!--lombok-->
